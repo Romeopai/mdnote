@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "c00641961308c4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "32aa1221c1464ee3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ab34437ca464ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001-specialized_courses/001-calculus/01.limit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9c59f10ac7de598",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad18334297c3ae64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fb18bb8488f295d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cb48ee2aba4a67e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61d658e8dbf45d42",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7110b83142a7ff48",
+    "type": "split",
+    "children": [
+      {
+        "id": "94cf308a44160bf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eae8200057e9021e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001-specialized_courses/001-calculus/01.limit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1e0db69d0b5fd11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001-specialized_courses/001-calculus/01.limit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6d1cea2bf8b045c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09c80446f39163ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001-specialized_courses/001-calculus/01.limit.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5ab34437ca464ad9",
+  "lastOpenFiles": [
+    "001-specialized_courses/001-calculus/01.limit.md",
+    "未命名.md"
+  ]
+}
